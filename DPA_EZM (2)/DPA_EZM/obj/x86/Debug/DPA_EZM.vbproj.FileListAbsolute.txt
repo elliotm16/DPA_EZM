@@ -1,0 +1,20 @@
+\\bassstr\pupilhome$\00morgane\documents\visual studio 2010\Projects\DPA_EZM\DPA_EZM\bin\Debug\DPA_EZM.exe
+\\bassstr\pupilhome$\00morgane\documents\visual studio 2010\Projects\DPA_EZM\DPA_EZM\bin\Debug\DPA_EZM.pdb
+\\bassstr\pupilhome$\00morgane\documents\visual studio 2010\Projects\DPA_EZM\DPA_EZM\bin\Debug\DPA_EZM.xml
+\\bassstr\pupilhome$\00morgane\documents\visual studio 2010\Projects\DPA_EZM\DPA_EZM\obj\x86\Debug\DPA_EZM.Form1.resources
+\\bassstr\pupilhome$\00morgane\documents\visual studio 2010\Projects\DPA_EZM\DPA_EZM\obj\x86\Debug\DPA_EZM.Resources.resources
+\\bassstr\pupilhome$\00morgane\documents\visual studio 2010\Projects\DPA_EZM\DPA_EZM\obj\x86\Debug\DPA_EZM.vbproj.GenerateResource.Cache
+\\bassstr\pupilhome$\00morgane\documents\visual studio 2010\Projects\DPA_EZM\DPA_EZM\obj\x86\Debug\DPA_EZM.exe
+\\bassstr\pupilhome$\00morgane\documents\visual studio 2010\Projects\DPA_EZM\DPA_EZM\obj\x86\Debug\DPA_EZM.xml
+\\bassstr\pupilhome$\00morgane\documents\visual studio 2010\Projects\DPA_EZM\DPA_EZM\obj\x86\Debug\DPA_EZM.pdb
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.exe
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.xml
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.pdb
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\bin\Debug\DPA_EZM.exe
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\bin\Debug\DPA_EZM.pdb
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\bin\Debug\DPA_EZM.xml
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.Form1.resources
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.Form2.resources
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.Resources.resources
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.vbproj.GenerateResource.Cache
+\\bassstr\pupilhome$\00morgane\Documents\Visual Studio 2010\Projects\DPA_EZM (2)\DPA_EZM\obj\x86\Debug\DPA_EZM.Menu.resources
